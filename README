@@ -1,0 +1,3 @@
+A simple 3D rendering library written in PostScript
+
+includes a small macro system and a home-brew object system.
